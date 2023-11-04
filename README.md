@@ -4,3 +4,7 @@
 ### In this project I have used static rendering and did not used server side rendering .
 ### For the frontend I used react project then converted that in to a static page by using ## npm run build ,which convert the react app into plane html,css, and js file(build folder).
 ### then I merged the backend with frontend so that i can see my frontend and backend at one server. In this process routing of the pages was very challenging
+
+
+##Need help
+#### I tried to deploy this project on the vercel, but I could not do that. If anyone want to help me then you are most welcome
